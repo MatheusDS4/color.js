@@ -1,5 +1,9 @@
 # @hydroperx/color
 
+<p align="center">
+  <a href="./docs/globals.md"><img src="https://img.shields.io/badge/TypeScript%20API%20Documentation-gray"></a>
+</p>
+
 ## Documentation
 
 ### Color
