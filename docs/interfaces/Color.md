@@ -1,8 +1,8 @@
-[**@hydroperx/color**](../README.md)
+[**com.sweaxizone.color**](../README.md)
 
 ***
 
-[@hydroperx/color](../globals.md) / Color
+[com.sweaxizone.color](../globals.md) / Color
 
 # Interface: Color
 

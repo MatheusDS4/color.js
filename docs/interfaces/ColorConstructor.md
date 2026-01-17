@@ -1,8 +1,8 @@
-[**@hydroperx/color**](../README.md)
+[**com.sweaxizone.color**](../README.md)
 
 ***
 
-[@hydroperx/color](../globals.md) / ColorConstructor
+[com.sweaxizone.color](../globals.md) / ColorConstructor
 
 # Interface: ColorConstructor()
 

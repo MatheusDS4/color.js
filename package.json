@@ -1,6 +1,6 @@
 {
-  "name": "@hydroperx/color",
-  "version": "1.0.1",
+  "name": "com.sweaxizone.color",
+  "version": "1.0.0",
   "type": "module",
   "files": [
     "/dist"

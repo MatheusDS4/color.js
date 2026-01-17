@@ -1,8 +1,8 @@
-[**@hydroperx/color**](README.md)
+[**com.sweaxizone.color**](README.md)
 
 ***
 
-# @hydroperx/color
+# com.sweaxizone.color
 
 ## Classes
 

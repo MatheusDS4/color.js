@@ -1,8 +1,8 @@
-**@hydroperx/color**
+**com.sweaxizone.color**
 
 ***
 
-# @hydroperx/color
+# com.sweaxizone.color
 
 <p align="center">
   <a href="./docs/globals.md"><img src="https://img.shields.io/badge/TypeScript%20API%20Documentation-gray"></a>
@@ -19,7 +19,7 @@ The `Color` class is similiar to [NPM color](https://www.npmjs.com/package/color
 Utility for detecting the computed character color (the cascading `color` property) in an element. This is useful for icons that adapt to light and dark themes.
 
 ```ts
-import { ColorObserver } from "@hydroperx/color";
+import { ColorObserver } from "com.sweaxizone.color";
 import { useEffect, useRef } from "react";
 
 const ref = useRef<HTMLDivElement | null>(null);

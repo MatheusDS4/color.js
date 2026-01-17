@@ -1,8 +1,8 @@
-[**@hydroperx/color**](../README.md)
+[**com.sweaxizone.color**](../README.md)
 
 ***
 
-[@hydroperx/color](../globals.md) / ColorObserver
+[com.sweaxizone.color](../globals.md) / ColorObserver
 
 # Class: ColorObserver
 
